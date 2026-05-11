@@ -1,0 +1,2 @@
+# brickreaction-config
+version.json
